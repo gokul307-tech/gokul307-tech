@@ -12,11 +12,11 @@
 
 ```text
 ┌─[ gokul@github ]─────────────────────────────────────────────┐
-│  OS       : B.Tech Information Technology — 2nd Year       │
-│  NOW      : Building SAGE AI & FeastyMap                    │
-│  PREV     : Student | Learning Software Development         │
-│  FOCUS    : AI · Full-Stack Development                     │
-│  LOCATION : Puducherry, India                               │
+│  OS       : B.Tech Information Technology — 2nd Year         │
+│  NOW      : Building SAGE AI & FeastyMap                     │
+│  PREV     : Student | Learning Software Development          │
+│  FOCUS    : AI · Full-Stack Development                      │
+│  LOCATION : Puducherry, India                                │ 
 └──────────────────────────────────────────────────────────────┘
 ```
 
