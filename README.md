@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="avi-ascii.svg" alt="Animated ASCII SVG of me !" width="100%"/>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="profile-dashboard.svg">
+  <a href="profile-dashboard.svg"><img src="profile-dashboard.gif" alt="Grayscale ASCII portrait and developer information dashboard" width="100%"/></a>
+</picture>
 
 # Gokul Vasan
 ### `Aspiring Software Developer` · Puducherry, India
@@ -21,7 +24,7 @@
 ```
 
 <div align="center">
-<img src="info-card.svg" alt="Developer information card" width="100%"/>
+<img src="contrib-heatmap.svg" alt="GitHub contribution activity over the last 52 weeks" width="100%"/>
 </div>
 
 # 💫 About Me:

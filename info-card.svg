@@ -1,10 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="245" viewBox="0 0 900 245">
-<rect width="900" height="245" rx="14" fill="#0b100e" stroke="#31543b"/>
-<text x="28" y="38" fill="#8fc49a" font-family="monospace" font-size="18">gokul@profile</text>
-<text x="28" y="67" fill="#718b77" font-family="monospace" font-size="13">────────────────────────────────────────────────────────</text>
-<g font-family="monospace" font-size="16">
-<text x="30" y="105" fill="#8fc49a">NAME</text><text x="160" y="105" fill="#e1e9e2">Gokul Vasan</text>
-<text x="30" y="137" fill="#8fc49a">ROLE</text><text x="160" y="137" fill="#e1e9e2">Aspiring Software Developer</text>
-<text x="30" y="169" fill="#8fc49a">EDUCATION</text><text x="160" y="169" fill="#e1e9e2">B.Tech Information Technology · 2nd Year</text>
-<text x="30" y="201" fill="#8fc49a">FOCUS</text><text x="160" y="201" fill="#e1e9e2">AI · Full-Stack Development · Product Building</text>
-</g><circle cx="855" cy="36" r="6" fill="#8fc49a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="560" viewBox="0 0 700 560" role="img" aria-labelledby="card-title card-description">
+<title id="card-title">Gokul Vasan developer information</title>
+<desc id="card-description">Developer profile, skills, projects, interests, and current public GitHub statistics.</desc>
+<rect id="card-background" x="0.5" y="0.5" width="699" height="559" rx="12" fill="#17191B" stroke="#454545"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="28" y="34" fill="#E6E6E6" font-size="17" text-anchor="start" font-weight="bold">GOKUL.VASAN // DEVELOPER PROFILE</text>
+<text x="28" y="55" fill="#A1A1A1" font-size="11" text-anchor="start" font-weight="normal">Aspiring Software Developer  /  Puducherry, India</text>
+<text x="672" y="34" fill="#A1A1A1" font-size="9" text-anchor="end" font-weight="normal">PUBLIC PROFILE</text>
+<line x1="28" y1="72" x2="672" y2="72" stroke="#454545" stroke-width="1"/>
+<text x="28" y="96" fill="#D5D5D5" font-size="10" text-anchor="start" font-weight="bold">IDENTITY</text>
+<text x="28" y="120" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">NAME</text>
+<text x="142" y="120" fill="#E6E6E6" font-size="12" text-anchor="start" font-weight="normal">Gokul Vasan</text>
+<text x="28" y="142" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">ROLE</text>
+<text x="142" y="142" fill="#E6E6E6" font-size="12" text-anchor="start" font-weight="normal">Aspiring Software Developer</text>
+<text x="28" y="164" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">EDUCATION</text>
+<text x="142" y="164" fill="#E6E6E6" font-size="12" text-anchor="start" font-weight="normal">B.Tech Information Technology  /  Year 2</text>
+<line x1="28" y1="181" x2="672" y2="181" stroke="#454545" stroke-width="1"/>
+<text x="28" y="204" fill="#D5D5D5" font-size="10" text-anchor="start" font-weight="bold">TECHNICAL PROFILE</text>
+<text x="28" y="228" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">LANGUAGES</text>
+<text x="142" y="228" fill="#E6E6E6" font-size="11" text-anchor="start" font-weight="normal">Java  ·  Python  ·  SQL  ·  JavaScript</text>
+<text x="28" y="250" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">FRONTEND</text>
+<text x="142" y="250" fill="#E6E6E6" font-size="11" text-anchor="start" font-weight="normal">HTML  ·  CSS  ·  Next.js</text>
+<text x="28" y="272" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">BACKEND / DATA</text>
+<text x="142" y="272" fill="#E6E6E6" font-size="11" text-anchor="start" font-weight="normal">FastAPI  ·  PostgreSQL</text>
+<text x="28" y="294" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">TOOLS</text>
+<text x="142" y="294" fill="#E6E6E6" font-size="11" text-anchor="start" font-weight="normal">Git  ·  GitHub  ·  VS Code</text>
+<line x1="28" y1="311" x2="672" y2="311" stroke="#454545" stroke-width="1"/>
+<text x="28" y="334" fill="#D5D5D5" font-size="10" text-anchor="start" font-weight="bold">CURRENT PROJECTS</text>
+<text x="28" y="357" fill="#E6E6E6" font-size="10" text-anchor="start" font-weight="bold">SAGE AI</text>
+<text x="142" y="357" fill="#A1A1A1" font-size="11" text-anchor="start" font-weight="normal">Personal AI assistant</text>
+<text x="28" y="380" fill="#E6E6E6" font-size="10" text-anchor="start" font-weight="bold">FEASTYMAP</text>
+<text x="142" y="380" fill="#A1A1A1" font-size="11" text-anchor="start" font-weight="normal">Location-based outing and itinerary planning</text>
+<line x1="28" y1="397" x2="672" y2="397" stroke="#454545" stroke-width="1"/>
+<text x="28" y="420" fill="#D5D5D5" font-size="10" text-anchor="start" font-weight="bold">INTERESTS</text>
+<text x="142" y="420" fill="#E6E6E6" font-size="10" text-anchor="start" font-weight="normal">Artificial Intelligence  ·  Full-Stack Development  ·  Software Engineering</text>
+<line x1="28" y1="439" x2="672" y2="439" stroke="#454545" stroke-width="1"/>
+<text x="92.4" y="461" fill="#A1A1A1" font-size="8" text-anchor="middle" font-weight="normal">CONTRIB.</text>
+<text x="92.4" y="486" fill="#E6E6E6" font-size="16" text-anchor="middle" font-weight="bold">223</text>
+<text x="221.20000000000002" y="461" fill="#A1A1A1" font-size="8" text-anchor="middle" font-weight="normal">REPOS</text>
+<text x="221.20000000000002" y="486" fill="#E6E6E6" font-size="16" text-anchor="middle" font-weight="bold">13</text>
+<line x1="156.8" y1="448" x2="156.8" y2="494" stroke="#454545" stroke-width="0.7"/>
+<text x="350.0" y="461" fill="#A1A1A1" font-size="8" text-anchor="middle" font-weight="normal">STARS</text>
+<text x="350.0" y="486" fill="#E6E6E6" font-size="16" text-anchor="middle" font-weight="bold">3</text>
+<line x1="285.6" y1="448" x2="285.6" y2="494" stroke="#454545" stroke-width="0.7"/>
+<text x="478.80000000000007" y="461" fill="#A1A1A1" font-size="8" text-anchor="middle" font-weight="normal">FOLLOWERS</text>
+<text x="478.80000000000007" y="486" fill="#E6E6E6" font-size="16" text-anchor="middle" font-weight="bold">6</text>
+<line x1="414.40000000000003" y1="448" x2="414.40000000000003" y2="494" stroke="#454545" stroke-width="0.7"/>
+<text x="607.6" y="461" fill="#A1A1A1" font-size="8" text-anchor="middle" font-weight="normal">FOLLOWING</text>
+<text x="607.6" y="486" fill="#E6E6E6" font-size="16" text-anchor="middle" font-weight="bold">5</text>
+<line x1="543.2" y1="448" x2="543.2" y2="494" stroke="#454545" stroke-width="0.7"/>
+<line x1="28" y1="505" x2="672" y2="505" stroke="#454545" stroke-width="1"/>
+<text x="28" y="535" fill="#A1A1A1" font-size="9" text-anchor="start" font-weight="normal">CONTACT</text>
+<text x="142" y="535" fill="#D5D5D5" font-size="11" text-anchor="start" font-weight="normal">gokulavasan307@gmail.com</text>
+<text x="672" y="535" fill="#A1A1A1" font-size="9" text-anchor="end" font-weight="normal">github.com/gokul307-tech</text>
+</g>
+</svg>
