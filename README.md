@@ -44,4 +44,4 @@
 
 ## Checkout My Portfolio
 
-![Click Here !](https://gokulavasan-portfolio.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/CLICK%20HERE-2494d8?style=for-the-badge&logo=pointer&logoColor=white)](https://gokulavasan-portfolio.vercel.app/)
