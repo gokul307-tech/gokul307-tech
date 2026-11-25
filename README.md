@@ -5,7 +5,7 @@
   <a href="profile-dashboard.svg"><img src="profile-dashboard.gif" alt="Grayscale ASCII portrait and developer information dashboard" width="100%"/></a>
 </picture>
 
-# Gokul Vasan
+# Gokulavasan
 ### `Aspiring Software Developer` · Puducherry, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-gokul307--tech-181717?style=for-the-badge&logo=github)](https://github.com/gokul307-tech)
